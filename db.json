@@ -1,0 +1,61 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Kyaw Kyaw",
+      "major": "SWD"
+    },
+    {
+      "id": 2,
+      "name": "Su Su",
+      "major": "SWD"
+    },
+    {
+      "id": 3,
+      "name": "Zaw Zaw",
+      "major": "WAD"
+    },
+    {
+      "name": "Gandamar",
+      "major": "FGI",
+      "id": 5
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Special Web Design",
+      "Short_name": "SWD"
+    },
+    {
+      "id": 2,
+      "title": "Web Application Development",
+      "Short_name": "WAD"
+    },
+    {
+      "id": 3,
+      "title": "Premium UI Design",
+      "Short_name": "PUD"
+    },
+    {
+      "title": "Web Dev Foundation",
+      "short_name": "WDF",
+      "id": 4
+    },
+    {
+      "title": "Figma Introduction",
+      "short_name": "FGI",
+      "id": 5
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Hein Htet Zan"
+    },
+    {
+      "name": "Nyi Nyi",
+      "id": 2
+    }
+  ]
+}
